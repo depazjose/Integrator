@@ -1,0 +1,5 @@
+#spring:
+#  cloud:
+#    azure:
+#      servicebus:
+#        connection-string: Endpoint=sb://abc.windows.net/;SharedAccessKeyName=shared;SharedAccessKey=kkNDIaUzj9qsSm/swMY10yGs2gSyzUCYKaqtiF/Mg9c=;EntityPath=path
